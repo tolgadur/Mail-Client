@@ -1,5 +1,5 @@
 #include "UI.hpp"
-
+ 
 using namespace std;
 using namespace finalcut;
 void UI::refreshMailList() {
