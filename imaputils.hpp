@@ -3,7 +3,7 @@
 #include <libetpan/libetpan.h>
 #include <map>
 #include <string>
-
+ 
 std::map<int, std::string> const errors{
 		{MAILIMAP_NO_ERROR, "MAILIMAP_NO_ERROR"},
 		{MAILIMAP_NO_ERROR_AUTHENTICATED, "MAILIMAP_NO_ERROR_AUTHENTICATED"},
